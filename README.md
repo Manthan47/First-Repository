@@ -1,3 +1,6 @@
-# First-Repository
-This is my first repository.
-there will be an awesome html file in the next file.
+ REPOSITERY
+ MANTHAN BHAVSAR  
+ AMAZING  WEBSITE
+ CREATED WITH  HTML ,CSS , JAVASCRIPT.
+ GREAT WEBSITE
+ 
